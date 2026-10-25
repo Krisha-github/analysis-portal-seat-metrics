@@ -1,6 +1,6 @@
-# JOSAA Seat Allocation Analysis Portal
+# Seat Allocation Analysis Portal for Indian Universities/Colleges 
 
-A data analysis portal for exploring JoSAA opening and closing rank trends across IITs.
+A data analysis portal for exploring JoSAA opening and closing rank trends.
 
 ## Features
 
